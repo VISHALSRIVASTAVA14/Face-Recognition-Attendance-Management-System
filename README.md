@@ -18,7 +18,7 @@ STUDENT DETAILS WINDOW
 
 FACE RECOGNITION WINDOW
 
-![55](https://github.com/VISHALSRIVASTAVA14/Face-Recognition-Attendance-Management-System/assets/153887479/0ee46a23-4fa9-4d2f-9421-c99747fd21f9)
+![55](https://github.com/VISHALSRIVASTAVA14/Face-Recognition-Attendance-Management-System/assets/153887479/2993505d-03b2-477b-8c79-b6336e4f585a)
 
 
 ATTENDANCE WINDOW
