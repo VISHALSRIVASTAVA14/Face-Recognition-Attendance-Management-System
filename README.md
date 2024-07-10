@@ -6,3 +6,8 @@ LOGIN PAGE
 ![52](https://github.com/VISHALSRIVASTAVA14/Face-Recognition-Attendance-Management-System/assets/153887479/ce6db0bd-1536-4b16-9dd3-2a7d4bf1802d)
 
 
+MAIN PAGE
+
+![53](https://github.com/VISHALSRIVASTAVA14/Face-Recognition-Attendance-Management-System/assets/153887479/041fcd09-2666-4b7f-8d80-060055a4b71e)
+
+
